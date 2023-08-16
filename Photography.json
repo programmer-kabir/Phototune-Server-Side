@@ -1,0 +1,108 @@
+[
+    {
+      "photographyName": "Natural Rare Bird",
+      "authorName": "Md Emran Ali",
+      "image": "https://i.postimg.cc/JnF5gDbX/emran1.jpg",
+      "price": 50.00,
+      "publishedDate": "Jun 30,2023",
+      "availableStock": 10,
+      "authorEmail": "mdemranali@gmail.com",
+      "status":"Pending"
+    },
+    {
+      "photographyName": "Rare Bird",
+      "authorName": "Md Emran Ali",
+      "image": "https://i.postimg.cc/fknjzGqT/emran.jpg",
+      "price": 100.56,
+      "publishedDate": "Jun 29,2023",
+      "availableStock": 20,
+      "authorEmail": "mdemranali@gmail.com",
+      "status":"Pending"
+    },
+    {
+      "photographyName": "Relaxing Bird",
+      "authorName": "Md Emran Ali",
+      "image": "https://i.postimg.cc/D0bPKvgM/emran5.jpg",
+      "price": 80.99,
+      "publishedDate": "Jun 28,2023",
+      "availableStock": 20,
+      "authorEmail": "mdemranali@gmail.com",
+      "status":"Pending"
+    },
+    {
+      "photographyName": "Kangchenjunga",
+      "authorName": "Md Emran Ali",
+      "image": "https://i.postimg.cc/05LLKrLr/emran6.jpg ",
+      "price": 80.99,
+      "publishedDate": "Jun 30,2023",
+      "availableStock": 20,
+      "authorEmail": "mdemranali@gmail.com",
+      "status":"Pending"
+    },
+    {
+        "photographyName": "Bird",
+        "authorName": "Rejaul Hafiz Rahi",
+        "image": "https://i.postimg.cc/7P505LkC/banner7.jpg",
+        "price": 80.99,
+        "publishedDate": "Jun 30,2023",
+        "availableStock": 20,
+        "authorEmail": "rejaulhafizrahi@gmail.com",
+        "status":"Pending"
+    }
+    ,
+    {
+        "photographyName": "Natural Bird",
+        "authorName": "Rejaul Hafiz Rahi",
+        "image": "https://i.postimg.cc/14x9tBZK/banner6.jpg",
+        "price": 80.99,
+        "publishedDate": "Jun 30,2023",
+        "availableStock": 20,
+        "authorEmail": "rejaulhafizrahi@gmail.com",
+        "status":"Pending"
+    }
+    ,
+    {
+        "photographyName": "Tia Bird ",
+        "authorName": "Rejaul Hafiz Rahi",
+        "image": "https://i.postimg.cc/NMzGhYJS/banner4.jpg",
+        "price": 80.99,
+        "publishedDate": "Jun 30,2023",
+        "availableStock": 20,
+        "authorEmail": "rejaulhafizrahi@gmail.com",
+        "status":"Pending"
+    }
+    ,
+    {
+        "photographyName": "Tia Bird 2",
+        "authorName": "Rejaul Hafiz Rahi",
+        "image": "https://i.postimg.cc/mk1LBqKD/banner5.jpg",
+        "price": 80.99,
+        "publishedDate": "Jun 30,2023",
+        "availableStock": 20,
+        "authorEmail": "rejaulhafizrahi@gmail.com",
+        "status":"Pending"
+    }
+    ,
+    {
+        "photographyName": "Beautiful Bird",
+        "authorName": "Rejaul Hafiz Rahi",
+        "image": "https://i.postimg.cc/x12zpybH/banner2.jpg",
+        "price": 80.99,
+        "publishedDate": "Jun 30,2023",
+        "availableStock": 20,
+        "authorEmail": "rejaulhafizrahi@gmail.com",
+        "status":"Pending"
+    }
+    ,
+    {
+        "photographyName": "Rare Bird 2",
+        "authorName": "Rejaul Hafiz Rahi",
+        "image": "https://i.postimg.cc/JnvyNbLs/rahi5.jpg",
+        "price": 80.99,
+        "publishedDate": "Jun 30,2023",
+        "availableStock": 20,
+        "authorEmail": "rejaulhafizrahi@gmail.com",
+        "status":"Pending"
+    }
+  ]
+  
