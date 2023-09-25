@@ -8,8 +8,8 @@ app.use(express.json());
 app.use(cors());
 //mongodb code here
 const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
-const uri = `mongodb+srv://${process.env.DB_USERS}:${process.env.DB_PASSWORD}@cluster0.inzz8jh.mongodb.net/?retryWrites=true&w=majority`;
-
+// const uri = `mongodb+srv://${process.env.DB_USERS}:${process.env.DB_PASSWORD}@cluster0.inzz8jh.mongodb.net/?retryWrites=true&w=majority`;
+const uri = "mongodb+srv://Phototune:4YsFQlSvL7EGiNDw@cluster0.0i3pjbq.mongodb.net/?retryWrites=true&w=majority";
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
 const client = new MongoClient(uri, {
   serverApi: {
